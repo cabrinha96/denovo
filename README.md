@@ -1,5 +1,5 @@
 # Como Tudo Começou
-[facebook](www.facebook.com)
+[facebook](http://www.facebook.com)
 
 ![](https://miro.medium.com/max/1400/1*Xf6GgaxTPlg83Qo5tTfI8w.jpeg)
 
