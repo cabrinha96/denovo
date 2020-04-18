@@ -1,0 +1,21 @@
+https://facebook.com
+
+felipelincoln@usp.br
+
+@felipelincoln
+
+@warwick965
+
+https://github.com/facelessuser/pymdown-extensions
+
+@twitter:potus
+
+@gitlab:pycqa/flake8
+
+See !1 and !2 solving the issue #1
+
+latest commit: 41cd98d4414c2da9b15971958fda1a02c46b4d72
+
+compare these commits: 8f26099ee5f48362aa644541c719f671cb521ab3...41cd98d4414c2da9b15971958fda1a02c46b4d72
+
+see this pull request: https://github.com/felipelincoln/albion-blackmarket-tool/pull/1
