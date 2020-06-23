@@ -10,7 +10,7 @@ $$
 
 ![](https://miro.medium.com/max/1400/1*Xf6GgaxTPlg83Qo5tTfI8w.jpeg)
 
-A história de Nutella é um conto inspirador de amor e paixão combinado com uma meticulosa seleção e processamento da melhor matéria-prima para criar um produto único e incomparável. Originalmente a Nutella foi uma solução inteligente para um problema complicado, a escassez da oferta de cacau após a Segunda Guerra Mundial. Pietro Ferrero, um confeiteiro de Piemonte na Itália, criou um creme doce feito de avelã, açúcar e uma pitada de cacau raro.
+A história de Nutella é um conto inspirador de amor e paixão combinado com uma meticulosa seleção e processamento da melhor matéria-prima para criar um produto único e incomparável. Originalmente a Nutella foi uma solução inteligente para um problema complicado, a escassez da oferta de cacau após a Segunda Guerra Mundial. Pietro Ferrero, um confeiteiro de Piemonte na Itália, criou um creme doce feitsdadasdo de avelã, açúcar e uma pitada de cacau raro.
 
 ![](https://miro.medium.com/max/1000/1*oBmu3F_HiFEA1PODguXvpA.png)
 
