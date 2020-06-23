@@ -12,7 +12,7 @@ https://github.com/facelessuser/pymdown-extensions
 
 @gitlab:pycqa/flake8
 
-See !1 and !2 solving the issue #1
+See !1 and !2 solving the issue #1 ss dad sa
 
 latest commit: 41cd98d4414c2da9b15971958fda1a02c46b4d72
 
